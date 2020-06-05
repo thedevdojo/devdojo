@@ -1,0 +1,15 @@
+{
+  "name": "devdojo",
+  "version": "1.0.0",
+  "description": "DevDojo NPM CLI tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "devdojo",
+    "devblog"
+  ],
+  "author": "DevDojo",
+  "license": "ISC"
+}
